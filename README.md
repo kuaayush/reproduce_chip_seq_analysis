@@ -5,14 +5,14 @@ I reproduced figures from a published research paper by following a tutorial by 
 You can also read a blog I wrote about it here: [My blog on Medium](https://medium.com/@iamaayushojha/reproducing-research-papers-and-surviving-chip-seq-4328ccfaff06?source=friends_link&sk=7ce4864e86c33af056fdea6449b20ba4)
 
 
-You can read the brief biology behind the data analysis here :
+_You can read the brief biology behind the data analysis here!_
 
-**Completed a tutorial to reproduce figures from a published research paper **
+# Completed a tutorial to reproduce figures from a published research paper
 
 Reproducing the figures of any research paper is beneficial because: 
-It helps you to be familiar with data types involved in different kinds of research 
-You will get to learn some biological concepts in depth.
-You will learn what figures are better to use for what kind of data. 
+  - It helps you to be familiar with data types involved in different kinds of research
+  - You will get to learn some biological concepts in depth.
+  - You will learn what figures are better to use for what kind of data. 
 
 Here, I followed the tutorial of Tommy Tang to reproduce figures from the paper titled “Genome-wide association between YAP/TAZ/TEAD and AP-1 at enhancers drives oncogenic growth”. This study was conducted in Italy, by Zanconato et. al, published in 2015. The study is focused on identifying how two groups of proteins work together to control the gene activity in cancer cells. 
 
